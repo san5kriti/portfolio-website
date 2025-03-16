@@ -1,0 +1,229 @@
+/* 🌠 Section Layout */
+.contactSection {
+  flex: 1;
+  position: relative;
+  min-height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+  overflow: hidden;
+  padding: 4rem 2rem;
+
+}
+
+/* 🌌 Background Stars */
+.contactCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ✨ Shooting Star */
+.shootingStar {
+  position: absolute;
+  top: 20%;
+  left: -50px;
+  width: 8px;
+  height: 8px;
+  background: white;
+  border-radius: 50%;
+  animation: shooting 6s linear infinite;
+  z-index: 5;
+}
+
+@keyframes shooting {
+  0% {
+    transform: translateX(0) translateY(0) scale(1);
+    opacity: 1;
+  }
+  70% {
+    transform: translateX(700px) translateY(100px) scale(1.5);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateX(800px) translateY(120px) scale(0);
+    opacity: 0;
+  }
+}
+
+/* 🪐 Title */
+.contactTitle {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  z-index: 10;
+  text-align: center;
+}
+
+/* 💌 Form Styling */
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  max-width: 500px;
+  z-index: 10;
+}
+
+.contactForm input,
+.contactForm textarea {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  color: white;
+  font-size: 1rem;
+  backdrop-filter: blur(5px);
+  transition: all 0.3s ease-in-out;
+}
+
+.contactForm input:focus,
+.contactForm textarea:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(206, 134, 217, 0.8);
+  border: 1px solid #ce86d9;
+}
+
+/* 🚀 Submit Button */
+.contactForm button {
+  padding: 0.8rem 1rem;
+  background: #ce86d9;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.contactForm button:hover {
+  background: #6c87ea;
+  transform: translateY(-2px);
+}
+
+/* 🌌 Social Links */
+.socialLinks {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+  z-index: 10;
+}
+
+.socialLinks a {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.socialLinks a:hover {
+  color: #ce86d9;
+  transform: translateY(-3px);
+}
+.footer {
+  width: 100%;
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items:  center;
+  position: relative;
+  z-index: 20;
+}
+
+.footerContent p {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.footerContent p span {
+  color: #ce86d9;
+}
+
+.linkish {
+  color: #ce86d9;
+  cursor: pointer;
+}
+
+.linkish:hover {
+  text-decoration: underline;
+}
+
+/* Modal Backdrop */
+.modalBackdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Modal Content */
+.modalContent {
+  background: rgba(20, 20, 20, 0.95);
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 400px;
+  text-align: center;
+  backdrop-filter: blur(5px);
+}
+
+.modalContent h4 {
+  margin-bottom: 1rem;
+}
+
+.modalContent button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #ce86d9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modalContent button:hover {
+  background: #6c87ea;
+}
+/* 🚀 Confirmation Toast */
+.confirmation {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(20, 20, 20, 0.95);
+  color: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(206, 134, 217, 0.6);
+  font-weight: bold;
+  z-index: 100;
+  animation: slideInUp 0.6s ease forwards;
+}
+
+/* ✨ Slide and Fade Effect */
+@keyframes slideInUp {
+  0% {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.alienBuddy {
+  position: absolute;
+  top: 250px;
+  left: 200px;
+  width: 200px; /* Adjust as needed */
+  z-index: 15;
+}

@@ -1,42 +1,50 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* globals.css */
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+html, body {
+  height: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+#__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
-
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
+/* Basic Reset */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;600&display=swap');
 * {
-  box-sizing: border-box;
-  padding: 0;
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+
+body {
+  background: #141414; /* Solid dark background */
+  font-family: 'Arial', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.waving-hand {
+  font-size: 2rem;
+  display: inline-block;
+  animation: wave-animation 2s infinite;
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(15deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-15deg); }
+  100% { transform: rotate(0deg); }
+}
+
+/* Links */
 a {
-  color: inherit;
   text-decoration: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+  color: inherit;
 }

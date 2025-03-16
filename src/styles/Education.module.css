@@ -1,0 +1,176 @@
+/* 🌌 Full Section Styling */
+.educationSection {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  padding: 5rem 10vw;
+  background: black;
+  color: white;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* 🌌 Star Canvas */
+.starCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* 📌 Education Information */
+.educationInfo {
+  text-align: left;
+  max-width: 500px;
+  z-index: 1;
+}
+
+/* ✨ Section Header */
+.heading {
+  font-size: 2.8rem;
+  font-weight: bold;
+  color: #f3f4f4;
+  margin-bottom: 10px;
+}
+
+.subHeading {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #f3f4f4;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #ccc;
+  line-height: 1.8;
+  margin-bottom: 15px;
+}
+
+.moduleList {
+  margin-top: 1rem;
+  padding-left: 1.5rem;
+  list-style: disc;
+  color: #ccc;
+  font-size: 1.2rem;
+}
+
+.moduleList li {
+  transition: all 0.3s ease-in-out;
+}
+
+.moduleList li:hover {
+  transform: translateX(5px);
+  color: #ce86d9;
+}
+
+/* 🌟 Highlighted Text */
+.highlight {
+  font-weight: 600;
+  color: #ce86d9;
+}
+
+/* 🎯 Skill Set */
+.skillSet {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  z-index: 1;
+}
+
+/* 🔥 Skill Section Title */
+.skillHeading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* 🛠 Skill List */
+.skillList {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+/* 🎭 Individual Skill */
+.skillItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.skillIcon {
+  font-size: 2rem;
+  color: white;
+  transition: transform 0.3s ease-in-out;
+}
+
+.skillIcon:hover {
+  transform: scale(1.2);
+  color: #6c87ea;
+}
+
+.skillName {
+  font-size: 1.2rem;
+  color: white;
+  font-weight: 500;
+}
+
+/* 🔐 Password Hash Reveal Effect */
+.hashText {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: "JetBrains Mono", monospace;
+  color: #6c87ea;
+  letter-spacing: 2px;
+}
+
+/* 🎥 GIF Section */
+.pixelGifContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.pixelGifContainer img {
+  border-radius: 10px;
+  max-width: 280px;
+  height: auto;
+  transition: transform 0.4s ease;
+}
+
+.pixelGifContainer img:hover {
+  transform: scale(1.05);
+}
+.certLink a {
+  display: inline-block;
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+  color: #d9d9d9;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.certLink a:hover {
+  color: #6c87ea;
+  transform: translateX(5px);
+}
+.certLink {
+  margin-top: 1rem; /* Adjust as needed! */
+}
