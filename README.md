@@ -1,45 +1,64 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🚀 Sanskriti Shelke's Portfolio Website
 
-## Getting Started
+[![Website](https://img.shields.io/badge/Visit-Portfolio-informational?style=flat&logo=vercel&color=6c87ea)](https://sanskritishelke.com)  
+[![GitHub](https://img.shields.io/github/followers/san5kriti?label=Follow&style=social)](https://github.com/san5kriti)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to the official repository of my personal portfolio! A cosmic-themed, one-page portfolio built with **Next.js**, **Tailwind CSS**, and **Framer Motion** to showcase my journey as an AI & Computer Science student 🚀.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> 💡 “Unravel the Universe, Explore Infinity.”
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## ✨ Features
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+- 🌌 **Interactive Starry Background** with animated particles
+- ⚡ **Framer Motion Animations** for smooth transitions
+- 🎨 **Custom Theme** with retro-pixel visuals
+- 📄 **Responsive Design** for mobile & desktop
+- 💬 **EmailJS Contact Form** integration
+- 🛠️ **Skills, Projects, Experience** & more
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js** ⚛️
+- **TypeScript** 💙
+- **Tailwind CSS** 🎨
+- **Framer Motion** 🎞️
+- **Alpine.js** 🌿
+- **Animate.css** 🎉
+- **EmailJS API** 💌
+- **Particles.js** ✨
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚧 Projects Highlight
 
-## Deploy on Vercel
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Memory Mate** | AI-powered smart study assistant | 🚀 In Progress |
+| **Orbitron** | Stargazing & orbital tracker | 🔭 Researching |
+| **Studique** | Study tool with Pomodoro & music | 📑 In Progress |
+| **Philatos** | Greek mythology dictionary | 📚 In Progress |
+| **Quantora** | AI stock analysis tool | 📊 Researching |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-=======
-# portfolio-website
-student website portfolio
->>>>>>> e6018d5aebe77d26ef53993199e906d05846d624
+## 📫 Contact Me
+Want to collaborate or chat about cool projects?  
+📩 [sanskritishelke.r@gmail.com](mailto:sanskritishelke.r@gmail.com)  
+🌐 [sanskritishelke.com](https://sanskritishelke.com)
+
+---
+
+## ⚠️ License
+
+MIT License © Sanskriti Shelke  
+_“Made with 💜 and my supportive coffee machine ☕”_
+
+---
+
+![sanskriti's pixel astronaut](https://raw.githubusercontent.com/san5kriti/portfolio-website/main/public/astronaut.gif)
