@@ -38,13 +38,13 @@
 
 ## ✨ Features
 
-✅ **Hero Section** with Particles.js animated background  
-✅ **Custom-built Starfield Canvas** 🌌  
-✅ **Interactive Projects Grid** (Framer Motion animations!)  
-✅ **Contact Form** with EmailJS integration 💌  
-✅ **Responsive Design** (mobile-friendly)  
-✅ **Accessibility-first** approach ♿  
-✅ **Pixel-art graphics & cosmic GIFs** 🚀
+✅ Hero Section with animated **Particles.js** background  
+✅ **Starfield Canvas** 🌌  
+✅ **Animated Project Cards** (Framer Motion)  
+✅ **EmailJS Contact Form** 💌  
+✅ Fully **Responsive Design** 📱  
+✅ **Accessibility-first** ♿  
+✅ Pixel-art graphics & cosmic GIFs 🚀
 
 ---
 
@@ -57,6 +57,30 @@
 | **Studique**      | 📑 In Progress  | Pomodoro + lo-fi music study tool                  |
 | **Philatos**      | 📑 In Progress  | Mythology dictionary & reference guide             |
 | **Quantora**      | 📊 Researching  | AI stock analysis & prediction platform            |
+
+---
+
+## 🌟 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=san5kriti&theme=onestar&row=1&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 💡 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san5kriti&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/san5kriti/san5kriti/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
@@ -75,28 +99,6 @@ _Your one-way ticket to space... or at least my portfolio 😄_
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=san5kriti&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=san5kriti&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=san5kriti&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
-## 🌟 Fun Fact
-
-> 🪐 _“Made with 💜, caffeine, and the gravitational pull of curiosity.”_ 🚀
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/san5kriti/portfolio-website/main/public/astronaut.gif" width="150px" alt="pixel astronaut" />
 </p>
-
----
