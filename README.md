@@ -1,27 +1,28 @@
-<h1 align="center">✨ Sanskriti Shelke | Portfolio Website 🚀</h1>
+<h1 align="center">🚀 Sanskriti Shelke • AI & Computer Science Portfolio 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Computer%20Science%20Student;AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer;Welcome%20to%20my%20cosmic%20portfolio!&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Cosmic%20Portfolio;AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer;Crafting%20with%20Love%20%26%20Code%20✨&center=true&size=24">
 </p>
 
 <p align="center">
-  <a href="https://sanskritishelke.com"><img src="https://img.shields.io/badge/Live-Demo-6c87ea?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/san5kriti"><img src="https://img.shields.io/github/followers/san5kriti?label=GitHub&style=for-the-badge&logo=github&color=6c87ea"></a>
-  <a href="mailto:sanskritishelke.r@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-6c87ea?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://sanskritishelke.com"><img src="https://img.shields.io/badge/🌐%20Visit%20Live%20Site-6c87ea?style=for-the-badge"></a>
+  <a href="https://github.com/san5kriti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6c87ea"></a>
+  <a href="mailto:sanskritishelke.r@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-6c87ea?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🌌 About
+## 🌌 About Me
 
-Welcome to my personal corner of the universe ✨  
-A **space-themed, fully responsive portfolio** showcasing my journey as an AI & Computer Science student, crafted with love and coffee ☕.
-
-Built using **Next.js**, **Tailwind CSS**, and sprinkled with **Framer Motion** animations, this portfolio is designed to stand out 🚀.
+✨ **AI & Computer Science student** passionate about solving real-world problems with code and a creative spark.  
+🌍 Based in Birmingham, UK — exploring the universe of tech one pixel at a time.  
+🚀 I blend **AI**, **ML**, and **Full Stack Development** to create projects that are functional, fun, and out of this world.
 
 ---
 
 ## 🛠️ Tech Stack
+
+> ⚙️ Built with modern tools & cosmic vibes:
 
 - **Next.js** ⚛️  
 - **TypeScript** 💙  
@@ -29,49 +30,73 @@ Built using **Next.js**, **Tailwind CSS**, and sprinkled with **Framer Motion** 
 - **Framer Motion** 🎞️  
 - **Alpine.js** 🌿  
 - **Animate.css** 🎉  
-- **EmailJS API** 💌  
+- **EmailJS** 💌  
 - **Particles.js** 🌠  
+- **Git & GitHub** 🖤
 
 ---
 
-## 💼 Features
+## ✨ Features
 
-- 🚀 **Hero Section** with animated particles and CTA  
-- 🎨 **Animated About, Skills, Projects & Contact Sections**  
-- 💌 **Working Contact Form** with EmailJS  
-- 🌠 **Custom Starfield Canvas** (hand-coded space magic)  
-- 🛰️ **Cosmic GIFs & Pixel Art**  
-- 💡 Fully **responsive** & **accessible**
-
----
-
-## 🚀 Projects
-
-| 🚀 Project | 🚧 Status | 🌌 Description |
-|------------|-----------|----------------|
-| **Memory Mate** | In Progress | AI-powered smart study assistant |
-| **Orbitron** | Researching | Stargazing & orbital tracking app |
-| **Studique** | In Progress | Pomodoro + music study tool |
-| **Philatos** | In Progress | Greek mythology reference |
-| **Quantora** | Researching | AI stock analysis tool |
+✅ **Hero Section** with Particles.js animated background  
+✅ **Custom-built Starfield Canvas** 🌌  
+✅ **Interactive Projects Grid** (Framer Motion animations!)  
+✅ **Contact Form** with EmailJS integration 💌  
+✅ **Responsive Design** (mobile-friendly)  
+✅ **Accessibility-first** approach ♿  
+✅ **Pixel-art graphics & cosmic GIFs** 🚀
 
 ---
 
-## 📬 Contact Me
+## 🛰️ Projects Showcase
 
-- 🌐 **Website**: [sanskritishelke.com](https://sanskritishelke.com)  
+| 🌠 Project        | 🚧 Status      | 📝 Description                                      |
+|-------------------|----------------|----------------------------------------------------|
+| **Memory Mate**   | 🚀 In Progress  | AI-powered smart study assistant                   |
+| **Orbitron**      | 🔭 Researching  | Web app for stargazing & orbital tracking          |
+| **Studique**      | 📑 In Progress  | Pomodoro + lo-fi music study tool                  |
+| **Philatos**      | 📑 In Progress  | Mythology dictionary & reference guide             |
+| **Quantora**      | 📊 Researching  | AI stock analysis & prediction platform            |
+
+---
+
+## 🚀 Live Demo
+
+👉 [sanskritishelke.com](https://sanskritishelke.com)  
+_Your one-way ticket to space... or at least my portfolio 😄_
+
+---
+
+## 💌 Contact
+
 - ✉️ **Email**: [sanskritishelke.r@gmail.com](mailto:sanskritishelke.r@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/sanskritishelke](https://www.linkedin.com/in/sanskritishelke/)
+- 🔗 **LinkedIn**: [linkedin.com/in/sanskritishelke](https://www.linkedin.com/in/sanskritishelke/)  
+- 🖤 **GitHub**: [github.com/san5kriti](https://github.com/san5kriti)
 
 ---
 
-## 🌟 Credits
-
-> **"Made with 💜, ✨ cosmic energy ✨ & a very supportive coffee machine ☕"**  
-> Design & Development by Sanskriti Shelke.
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/san5kriti/portfolio-website/main/public/astronaut.gif" width="120px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=san5kriti&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=san5kriti&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=san5kriti&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+---
+
+## 🌟 Fun Fact
+
+> 🪐 _“Made with 💜, caffeine, and the gravitational pull of curiosity.”_ 🚀
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/san5kriti/portfolio-website/main/public/astronaut.gif" width="150px" alt="pixel astronaut" />
+</p>
+
+---
