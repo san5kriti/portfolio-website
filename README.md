@@ -1,2 +1,2 @@
-# my-portfolio
+# portfolio-website
 student website portfolio
