@@ -74,8 +74,11 @@ export default function Contact() {
   return (
     <section id="contact" className={styles.contactSection}>
       <canvas ref={canvasRef} className={styles.contactCanvas}></canvas>
-
+      {/* Contact Note */}
       <h2 className={styles.contactTitle}>CONTACT</h2>
+      <h4 className={styles.contactNote}>
+        🚀 Open to internships, collaborations, or just a chat about the cosmos!
+      </h4>
 
       {/* 💌 Contact Form */}
       <form ref={formRef} onSubmit={handleSubmit} className={styles.contactForm}>
@@ -109,6 +112,7 @@ export default function Contact() {
         </p>
       </footer>
 
+
       {/* 🌌 Modal */}
       <AnimatePresence>
         {isModalOpen && (
@@ -126,6 +130,8 @@ export default function Contact() {
           </div>
         )}
       </AnimatePresence>
+
+
     </section>
   );
 }

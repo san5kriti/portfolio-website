@@ -25,33 +25,7 @@
   pointer-events: none;
 }
 
-/* ✨ Shooting Star */
-.shootingStar {
-  position: absolute;
-  top: 20%;
-  left: -50px;
-  width: 8px;
-  height: 8px;
-  background: white;
-  border-radius: 50%;
-  animation: shooting 6s linear infinite;
-  z-index: 5;
-}
 
-@keyframes shooting {
-  0% {
-    transform: translateX(0) translateY(0) scale(1);
-    opacity: 1;
-  }
-  70% {
-    transform: translateX(700px) translateY(100px) scale(1.5);
-    opacity: 0.8;
-  }
-  100% {
-    transform: translateX(800px) translateY(120px) scale(0);
-    opacity: 0;
-  }
-}
 
 /* 🪐 Title */
 .contactTitle {
@@ -220,10 +194,13 @@
   }
 }
 
-.alienBuddy {
-  position: absolute;
-  top: 250px;
-  left: 200px;
-  width: 200px; /* Adjust as needed */
-  z-index: 15;
+
+.contactNote {
+  font-size: 1.1rem;
+  color: #d9d9d9;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+  font-style: italic;
+  text-align: center;
 }
