@@ -26,7 +26,7 @@ export default function Home() {
     <>
       <main className={styles.hero}>
         {/* Background Video */}
-        <video autoPlay loop muted className={styles.videoBackground}>
+        <video autoPlay loop muted playsInline className={styles.videoBackground}>
           <source src="/cosmos.mp4" type="video/mp4" />
         </video>
 
