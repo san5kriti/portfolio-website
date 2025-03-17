@@ -166,6 +166,28 @@
   font-weight: 600;
   transition: all 0.3s ease;
 }
+@media (max-width: 768px) {
+  .educationSection {
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 1rem;
+  }
+
+  .educationInfo {
+    width: 100%;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  .skillSet {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .moduleList {
+    padding: 0;
+  }
+}
 
 .certLink a:hover {
   color: #6c87ea;
