@@ -157,6 +157,8 @@
 .pixelGifContainer img:hover {
   transform: scale(1.05);
 }
+
+/* 🌐 Certifications Link */
 .certLink a {
   display: inline-block;
   margin-top: 1.5rem;
@@ -166,11 +168,23 @@
   font-weight: 600;
   transition: all 0.3s ease;
 }
+
+.certLink a:hover {
+  color: #6c87ea;
+  transform: translateX(5px);
+}
+
+.certLink {
+  margin-top: 1rem;
+}
+
+/* 🌠 Responsive Magic */
 @media (max-width: 768px) {
   .educationSection {
     flex-direction: column;
     align-items: center;
     padding: 2rem 1rem;
+    height: auto;
   }
 
   .educationInfo {
@@ -182,17 +196,25 @@
   .skillSet {
     width: 100%;
     justify-content: center;
+    align-items: center;
   }
 
   .moduleList {
     padding: 0;
+    text-align: left;
   }
-}
 
-.certLink a:hover {
-  color: #6c87ea;
-  transform: translateX(5px);
-}
-.certLink {
-  margin-top: 1rem; /* Adjust as needed! */
+  .pixelGifContainer img {
+    max-width: 200px;
+  }
+
+  .highlight,
+  .moduleList li,
+  .description {
+    font-size: 1rem;
+  }
+
+  .hashText {
+    font-size: 2rem;
+  }
 }
