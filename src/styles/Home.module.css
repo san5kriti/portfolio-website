@@ -123,3 +123,39 @@
   transform: scaleX(1);
   transform-origin: left;
 }
+/* 📱 Mobile Styles */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    padding: 1rem;
+    height: 100vh;
+  }
+
+  .name {
+    font-size: 2.8rem;
+  }
+
+  .greeting {
+    font-size: 1.2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 40px;
+  }
+
+  .btn {
+    font-size: 1.2rem;
+  }
+
+  .initials {
+    font-size: 1.2rem;
+    top: 10px;
+    left: 10px;
+  }
+}
