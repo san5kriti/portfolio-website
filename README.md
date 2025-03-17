@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Sanskriti Shelke • Portfolio 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer;Crafting%20Solutions%20with%20Tech%20%26%20Creativity%20✨&center=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer;Crafting%20Solutions%20with%20Tech%20%26%20Creativity%20✨&center=true&size=24">
 </p>
 
 <p align="center">
