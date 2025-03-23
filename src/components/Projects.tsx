@@ -6,9 +6,9 @@ import Link from "next/link";
 
 const projects = [
   { name: "Memory Mate", link: "https://github.com/san5kriti", tech: "AI / Next.js", description: "A smart study assistant powered by AI.", status: "🚀 In Progress", image: "/memorymate.png" },
-  { name: "Orbitron", link: "https://orbitron-chi.vercel.app", tech: "Space Tech / JS", description: "DEMO NOW AVAILABLE A web app for stargazing & orbital tracking.", status: "🔭 Researching", image: "/orbitron.png" },
+  { name: "Orbitron", link: "https://orbitronspace.vercel.app/", tech: "Space Tech / JS", description: "DEMO NOW AVAILABLE A web app for stargazing & orbital tracking.", status: "🔭 Researching", image: "/orbitron.png" },
   { name: "Studique", link: "https://github.com/san5kriti", tech: "Wellness / React", description: "Focus-enhancing study tool with Pomodoro & music.", status: "📑 In Progress", image: "/studique.png" },
-  { name: "Philatos", link: "https://github.com/san5kriti", tech: "Mythology / Dictionary", description: "A Greek mythology dictionary & reference guide.", status: "📑 In Progress", image: "/philatos.png" },
+  { name: "Philatos", link: "https://philatos.vercel.app/", tech: "Mythology / Dictionary", description: "A Greek mythology dictionary & reference guide.", status: "📑 In Progress", image: "/philatos.png" },
   { name: "Quantora", link: "https://github.com/san5kriti", tech: "Finance / AI", description: "A live stock analysis & AI prediction tool.", status: "📊 Researching", image: "/quantora.png" },
 ];
 
