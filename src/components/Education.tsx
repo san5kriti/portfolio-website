@@ -114,7 +114,6 @@ export default function Education() {
           Starting my undergraduate journey at 16, I immersed myself in core AI and Computer Science modules, some of my favourite were:
         </p>
         <ul className={styles.moduleList}>
-          <li><span className={styles.highlight}>Advanced Functional Programming</span></li>
           <li><span className={styles.highlight}>Algorithms & Complexity</span></li>
           <li><span className={styles.highlight}>Artificial Intelligence 1 & 2</span></li>
           <li><span className={styles.highlight}>Full Stack Application Development</span></li>
