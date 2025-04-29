@@ -94,8 +94,8 @@ export default function About() {
           A cosmic romantic at heart, I balance wormholes with Homer, time dilation with Botticelli, and string theory with a healthy obsession for the stars—somehow, it all orbits together (in my universe, at least). 👩🏼‍🚀🌀
           <br /><br />
           My latest paper, <span className={styles.highlight}>Meta-Hybrid Classical-Quantum-inspired Optimization for the TSP: A Comparative Analysis</span>,
-          introduces ten new novel hybrid algorithms combining classical heuristics with quantum-inspired methods.
-          I’m finalizing the code and manuscript, soon to be published on Academia.edu and GitHub! 🚀
+          introduces ten new novel hybrid algorithms combining classical and quantum heuristics.
+          I’m finalizing the code and manuscript, soon to be published on Academia.edu and GitHub! 🧬💗☕️🧠
 
         </p>
       </motion.div>
