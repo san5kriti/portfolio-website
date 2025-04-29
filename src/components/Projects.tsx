@@ -10,7 +10,8 @@ const projects = [
   { name: "Studique", link: "https://github.com/san5kriti", tech: "Wellness / React", description: "Focus-enhancing study tool with Pomodoro & music.", status: "📑 In Progress", image: "/studique.png" },
   { name: "Philatos", link: "https://philatos.vercel.app/", tech: "Mythology / Dictionary", description: "A Greek mythology dictionary & reference guide.", status: "📑 In Progress", image: "/philatos.png" },
   { name: "Quantora", link: "https://github.com/san5kriti", tech: "Finance / AI", description: "A live stock analysis & AI prediction tool.", status: "📊 Researching", image: "/quantora.png" },
-  { name: "Virtual Library", link: "https://virtuallib.vercel.app/", tech: "Education", description: "An immersive focus space for students.", status: "✅Deployed", image: "/virtuallib.png" }
+  { name: "Virtual Library", link: "https://virtuallib.vercel.app/", tech: "Education", description: "An immersive focus space for students.", status: "✅Deployed", image: "/virtuallib.png" },
+  { name: "Esoteric Daughter", link: "https://esotericdaughter.vercel.app/", tech: "Personal", description: "Personalised Blog", status: "✅Deployed", image: "/blog.png" }
 ];
 
 export default function Projects() {
