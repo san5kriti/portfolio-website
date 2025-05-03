@@ -61,6 +61,7 @@
   font-size: 1.8rem;
   font-weight: 400;
   color: #f3f4f4;
+  text-align : left;
   text-transform: uppercase;
 }
 
@@ -91,7 +92,7 @@
   align-items: center;
   gap: 30px; /* Space out buttons evenly */
   flex-wrap: wrap; /* Ensures they don’t overlap */
-  margin-top: 80px; /* Push them down from the text */
+  margin-top: 350px; /* Push them down from the text */
 }
 
 .btn {

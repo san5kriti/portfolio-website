@@ -54,8 +54,10 @@ export default function Home() {
             transition={{ duration: 1, delay: 1 }}
             className={styles.name}
           >
+              
             SANSKRITI SHELKE
           </motion.h1>
+        
 
           <motion.h3
             initial={{ opacity: 0 }}
