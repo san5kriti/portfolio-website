@@ -125,6 +125,7 @@ export default function Projects() {
           <a href="https://www.redbrick.me/author/sanskriti/" target="_blank" rel="noopener noreferrer">🔭 Redbrick Articles</a>
           <a href="https://sanskritishelke.academia.edu/" target="_blank" rel="noopener noreferrer">🔖 Academia </a>
           <a href="https://open.spotify.com/show/5FbN4lYxZUKf6oTQiBFSe3" target="_blank" rel="noopener noreferrer">🪐️ Metamorphoses Podcast</a>
+          <a href="https://san5kriti.substack.com/" target="_blank" rel="noopener noreferrer">🍵 Substack Blogs</a>
         </div>
       </motion.div>
     </motion.section>
