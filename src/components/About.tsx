@@ -80,7 +80,7 @@ export default function About() {
       >
         <p className={styles.description}>
           I’m <span className={styles.highlight}>Sanskriti Shelke</span>, a 19-year-old from Singapore,
-          soon to graduate with a degree in AI & Computer Science from the
+          and an official graduate with a degree in AI & Computer Science from the
           <span className={styles.accent}> University of Birmingham</span>.
           <br /><br />
           I'm passionate about <span className={styles.accent}>Machine Learning</span>,
