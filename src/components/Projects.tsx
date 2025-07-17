@@ -5,12 +5,13 @@ import styles from "../styles/Projects.module.css";
 import Link from "next/link";
 
 const projects = [
-  { name: "Memory Mate", link: "https://github.com/san5kriti", tech: "AI / Next.js", description: "A smart study assistant powered by AI.", status: "🚀 In Progress", image: "/memorymate.png" },
+  { name: "MindByte", link: "https://mindbyte.vercel.app/", tech: "AI / Next.js", description: "A smart study assistant powered by AI.", status: "✅Deployed", image: "/mindbyte.jpeg" },
   { name: "Orbitron", link: "https://orbitronspace.vercel.app/", tech: "Space Tech / JS", description: "DEMO NOW AVAILABLE A web app for stargazing & orbital tracking.", status: "🔭 Researching", image: "/orbitron.png" },
-  { name: "Studique", link: "https://github.com/san5kriti", tech: "Wellness / React", description: "Focus-enhancing study tool with Pomodoro & music.", status: "📑 In Progress", image: "/studique.png" },
+  { name: "Personal Site", link: "https://sanskritishelke.com/", tech: "Portfolio / React", description: "This personal website", status: "✅Deployed", image: "/personal.jpeg" },
   { name: "Philatos", link: "https://philatos.vercel.app/", tech: "Mythology / Dictionary", description: "A Greek mythology dictionary & reference guide.", status: "📑 In Progress", image: "/philatos.png" },
   { name: "Quantora", link: "https://github.com/san5kriti", tech: "Finance / AI", description: "A live stock analysis & AI prediction tool.", status: "📊 Researching", image: "/quantora.png" },
-  { name: "Virtual Library", link: "https://virtuallib.vercel.app/", tech: "Education", description: "An immersive focus space for students.", status: "✅Deployed", image: "/virtuallib.png" }
+  { name: "Virtual Library", link: "https://virtuallib.vercel.app/", tech: "Education", description: "An immersive focus space for students.", status: "✅Deployed", image: "/virtuallib.png" },
+    { name: "Meta-hybrid Quantum-Classical Optimisation", link: "https://www.linkedin.com/posts/sanskritishelke_i-was-15-when-i-picked-up-my-first-book-on-activity-7347007009222746112-Qwme?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEH9i7gBd1ihZ0_AjEinw2jtD95m3Lyg66s", tech: "Research", description: "Final year project", status: "Soon to be publised on Github & Academia!", image: "/project1.jpeg" }
 
 ];
 
