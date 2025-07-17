@@ -68,7 +68,7 @@ export default function Home() {
             <Typewriter
               options={{
                 strings: [
-                  "AI COM SCI STUDENT",
+                  "Artificial Intelligence & Comp Sci Graduate",
                   "Freelancer",
                   "Aspiring AI Engineer",
                   "Quantum Tech Enthusiast",
