@@ -23,7 +23,7 @@ export default function About() {
     }));
 
     function animateStars() {
-      if (!canvas || !ctx) return; // 🛡️ Double safety check
+      if (!canvas || !ctx) return; //  Double safety check!
 
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
@@ -86,15 +86,15 @@ export default function About() {
           I'm passionate about <span className={styles.accent}>Machine Learning</span>,
           <span className={styles.accent}> Quantum Computing</span>, and
           <span className={styles.accent}> Software Engineering</span>,
-          focusing on real-world AI innovation—basically, if it’s complex and sounds like sci-fi, I’m all in.
+          focusing on real-world AI innovation. basically, if it’s complex and sounds like sci-fi, I’m all in.
           <br /><br />
           From crafting intelligent systems to exploring quantum algorithms,
           I’m here to turn “this is theoretical” into “wow, it actually works.”
           When I'm not balancing intellectual pursuits, you’ll find me lost in ancient epics or wandering museums.
-          A cosmic romantic at heart, I balance wormholes with Homer, time dilation with Botticelli, and string theory with a healthy obsession for the stars—somehow, it all orbits together (in my universe, at least). 👩🏼‍🚀🌀
+          A cosmic romantic at heart, I balance wormholes with Homer, time dilation with Botticelli, and string theory with a healthy obsession for the stars. Somehow, it all orbits together (in my universe, at least). 👩🏼‍🚀🌀
           <br /><br />
           My latest paper, <span className={styles.highlight}>Meta-Hybrid Classical-Quantum-inspired Optimization for the TSP: A Comparative Analysis</span>,
-          introduces ten new novel hybrid algorithms combining classical and quantum heuristics.
+          introduces eight new novel hybrid algorithms combining classical and quantum heuristics.
           I’m finalizing the code and manuscript, soon to be published on Academia.edu and GitHub! 🧬💗☕️🧠
 
         </p>
